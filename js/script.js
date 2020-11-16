@@ -9,7 +9,7 @@ var descrizione = new Vue({
     age:'',
     questionHobby:'Cosa ti piace fare nel tempo libero?',
     hobby:'',
-    immagine:'../img.jpg'
+    immagine:'img.jpg'
 
   },
 
